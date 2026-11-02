@@ -1,0 +1,14 @@
+[ {
+  "id" : 75,
+  "name" : "likitha",
+  "description" : "computer not working",
+  "status" : "Open",
+  "category" : "hardware"
+}, {
+  "id" : 78,
+  "name" : "Neha",
+  "description" : "Wifi not working",
+  "status" : "Open",
+  "category" : "Network"
+} ]
+
